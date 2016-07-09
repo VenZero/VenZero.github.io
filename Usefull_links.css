@@ -1,0 +1,101 @@
+body {
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color:black;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+	font-size: 40px;
+	color: white;
+	font-family: Advent Psychosis;
+	text-align: center;
+	}
+
+.all {
+	text-decoration: none;color:white;
+}
+
+.tabs {
+	background-image: url('sources/images/transparent gray.png');
+	padding: 10px;
+	margin-right: 30px;
+	display:inline;
+	text-align:;
+	float: left;
+	font-size:30px;
+	color:black;
+	font-family: Advent Psychosis;
+}
+
+.tabs2 {
+	background-image: url('sources/images/transparent gray.png');
+	padding:10px;
+	margin-right: 30px;
+	display:inline;
+	text-align:;
+	float: left;
+	font-size:30px;
+	color:white;
+	font-family: Advent Psychosis;
+}
+
+.tabs3 {
+	background-image: url('sources/images/transparent gray.png');
+	padding:10px;
+	margin-right: 30px;
+	display:inline;
+	text-align:;
+	float: left;
+	font-size:30px;
+	color:white;
+	font-family: Advent Psychosis;
+}
+
+.tabs4 {
+	background-image: url('sources/images/transparent gray.png');
+	padding:10px;
+	margin-right: 30px;
+	display:inline;
+	text-align:;
+	float: left;
+	font-size:30px;
+	color:white;
+	font-family: Advent Psychosis;
+}
+
+.tabs5 {
+	background-image: url('sources/images/transparent gray.png');
+	padding:10px;
+	margin-right: 30px;
+	display:inline;
+	text-align:;
+	float: left;
+	font-size:30px;
+	color:white;
+	font-family: Advent Psychosis;
+}
+
+p.none {
+	text-decoration: none;
+}
+
+ul {
+	padding: 5px;
+    background-color:;
+    display: inline-block;
+}
+
+/*These are the only fonts you can select from. Keep this at the bottem of the css file.*/
+@font-face {
+    font-family: "Benny Blanco"; 
+    src:url('sources/fonts/Benny Blanco/BENNB.eot') format('embedded-opentype'),
+	url('sources/fonts/Benny Blanco/benny_blanco.otf') format('truetype');
+}
+@font-face {
+	font-family: "Advent Psychosis";
+	src:url('sources/fonts/Advent Psychosis/Advent_Psychosis.eot') format('embedded-opentype'),
+	url('sources/fonts/Advent Psychosis/Advent_Psychosis.ttf') format('truetype');
+}

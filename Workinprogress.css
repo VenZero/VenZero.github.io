@@ -1,0 +1,26 @@
+body {
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+	font-size: 40px;
+	color: white;
+	font-family: Advent Psychosis;
+	text-align: center;
+	}
+
+/*These are the only fonts you can select from. Keep this at the bottem of the css file.*/
+@font-face {
+    font-family: "Benny Blanco"; 
+    src:url('sources/fonts/Benny Blanco/BENNB.eot') format('embedded-opentype'),
+	url('sources/fonts/Benny Blanco/benny_blanco.otf') format('truetype');
+}
+@font-face {
+	font-family: "Advent Psychosis";
+	src:url('sources/fonts/Advent Psychosis/Advent_Psychosis.eot') format('embedded-opentype'),
+	url('sources/fonts/Advent Psychosis/Advent_Psychosis.ttf') format('truetype');
+}
