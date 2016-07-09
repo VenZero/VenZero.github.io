@@ -36,10 +36,10 @@ opacity:1.0;
 #slideshow div.last-active {
 z-index:9;
 }
-</style>
-#iframe {
+#Twitch div.Twitch {
 align-self:center;
 }
+</style>
 
 .headers {
 	font-size: 40px;
