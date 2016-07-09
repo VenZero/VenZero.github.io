@@ -1,0 +1,87 @@
+body {
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+}
+
+.headers {
+	font-size: 40px;
+	color: white;
+	font-family: Advent Psychosis;
+	text-align: center;
+	}
+
+<style type="text/css">
+/*** maak de hoogte en breedte gelijk aan je afbeeldingen **/
+#slideshow {
+align-self:center;
+position:relative;
+height:300px;
+width:450px;
+}
+#slideshow .slide {
+position:absolute;
+top:0px;
+left:0px;
+right:0px;
+z-index:8px;
+opacity:0.0;
+}
+#slideshow div.active {
+z-index:10;
+opacity:1.0;
+}
+#slideshow div.last-active {
+z-index:9;
+}
+</style>
+
+.headers {
+	font-size: 40px;
+	color: white;
+	font-family: Advent Psychosis;
+	text-align: center;
+	}
+
+.nav {
+    font-size:20px;
+    color: black;
+    font-family: Benny Blanco;
+    background-image: url('C:/Users/jordy/Documents/site/sources/images/transparent white.png');
+    max-width: 13%;
+    min-width: 50px;
+    flex: 1;
+}
+
+.container {
+	margin-right: 30px;
+	display:inline;
+	text-align: center;
+	font-size:30px;
+	color:white;
+	font-family: Advent Psychosis;
+}
+
+.footer {
+	font-family:Advent Psychosis;
+	text-align: center;
+	color:white;
+}
+  
+.HoverVid a { position:relative; }
+.HoverVid a span { position:absolute; display:none; z-index:99; }
+.HoverVid a:hover span { display:block;left:210px;bottom:-85px; }
+
+/*These are the only fonts you can select from. Keep this at the bottem of the css file.*/
+@font-face {
+    font-family: "Benny Blanco"; 
+    src:url('sources/fonts/Benny Blanco/BENNB.eot') format('embedded-opentype'),
+	url('sources/fonts/Benny Blanco/benny_blanco.otf') format('truetype');
+}
+@font-face {
+	font-family: "Advent Psychosis";
+	src:url('sources/fonts/Advent Psychosis/Advent_Psychosis.eot') format('embedded-opentype'),
+	url('sources/fonts/Advent Psychosis/Advent_Psychosis.ttf') format('truetype');
+}
