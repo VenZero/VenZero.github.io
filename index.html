@@ -11,14 +11,18 @@
 </head>
 <body>
 
-<iframe 
-        src="http://player.twitch.tv/?channel=esl_csgo" 
-        height="720" 
-        width="1280" 
-        frameborder="0" 
-        scrolling="no"
-        allowfullscreen="true">
-</iframe>
+<script src= "http://player.twitch.tv/js/embed/v1.js"></script>
+<div id="{PLAYER_DIV_ID}"></div>
+<script type="text/javascript">
+    var options = {
+        width: 854,
+        height: 480,
+        channel: "{ESL_CSGO}", 
+        //video: "{VIDEO_ID}"       
+    };
+    var player = new Twitch.Player("{PLAYER_DIV_ID}", options);
+    player.setVolume(0.5);
+</script>
 
 <script type="text/javascript">
 var currentTime = new Date().getHours();
