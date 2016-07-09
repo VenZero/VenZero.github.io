@@ -37,6 +37,9 @@ opacity:1.0;
 z-index:9;
 }
 </style>
+#iframe {
+align-self:center;
+}
 
 .headers {
 	font-size: 40px;
