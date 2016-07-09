@@ -38,6 +38,8 @@ z-index:9;
 }
 #Twitch div.Twitch {
 align-self:center;
+position:relative;
+position:absolute;
 }
 </style>
 
