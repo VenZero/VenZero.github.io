@@ -64,6 +64,13 @@ z-index:9;
 	font-family: Advent Psychosis;
 }
 
+.join {
+	font-size: 30px;
+	color: white;
+	font-family: Advent Psychosis;
+	text-align: center;
+	}
+
 .footer {
 	font-family:Advent Psychosis;
 	text-align: center;
