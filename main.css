@@ -65,7 +65,8 @@ z-index:9;
 }
 
 .discord {
-	align-self: center;
+	align-self:center;
+        position:relative;
 	display:inline;
 }
 
