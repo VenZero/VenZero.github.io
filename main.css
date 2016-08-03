@@ -64,6 +64,11 @@ z-index:9;
 	font-family: Advent Psychosis;
 }
 
+.discord {
+	margin-right: 30px;
+	display:inline;
+}
+
 .footer {
 	font-family:Advent Psychosis;
 	text-align: center;
