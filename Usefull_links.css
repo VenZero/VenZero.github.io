@@ -10,7 +10,7 @@ body {
 .header {
 	font-size: 40px;
 	color: white;
-	font-family: Advent Psychosis;
+	font-family: Caviar Dreams;
 	text-align: center;
 	}
 
@@ -27,7 +27,7 @@ body {
 	float: left;
 	font-size:30px;
 	color:black;
-	font-family: Advent Psychosis;
+	font-family: Caviar Dreams;
 }
 
 .tabs2 {
@@ -39,7 +39,7 @@ body {
 	float: left;
 	font-size:30px;
 	color:white;
-	font-family: Advent Psychosis;
+	font-family: Caviar Dreams;
 }
 
 .tabs3 {
@@ -51,7 +51,7 @@ body {
 	float: left;
 	font-size:30px;
 	color:white;
-	font-family: Advent Psychosis;
+	font-family: Caviar Dreams;
 }
 
 .tabs4 {
@@ -63,7 +63,7 @@ body {
 	float: left;
 	font-size:30px;
 	color:white;
-	font-family: Advent Psychosis;
+	font-family: Caviar Dreams;
 }
 
 .tabs5 {
@@ -75,7 +75,7 @@ body {
 	float: left;
 	font-size:30px;
 	color:white;
-	font-family: Advent Psychosis;
+	font-family: Caviar Dreams;
 }
 
 p.none {
@@ -98,4 +98,9 @@ ul {
 	font-family: "Advent Psychosis";
 	src:url('sources/fonts/Advent Psychosis/Advent_Psychosis.eot') format('embedded-opentype'),
 	url('sources/fonts/Advent Psychosis/Advent_Psychosis.ttf') format('truetype');
+}
+@font-face {
+	font-family: "Caviar Dreams";
+	src:url('sources/fonts/Caviar Dreams/CaviarDreams.eot') format('embedded-opentype'),
+	url('sources/fonts/Caviar Dreams/CaviarDreams.ttf') format('truetype');
 }
