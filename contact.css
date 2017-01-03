@@ -9,7 +9,7 @@ body {
 .header {
 	font-size: 40px;
 	color: white;
-	font-family: Advent Psychosis;
+	font-family: Caviar Dreams;
 	text-align: center;
 	}
 
@@ -23,4 +23,9 @@ body {
 	font-family: "Advent Psychosis";
 	src:url('sources/fonts/Advent Psychosis/Advent_Psychosis.eot') format('embedded-opentype'),
 	url('sources/fonts/Advent Psychosis/Advent_Psychosis.ttf') format('truetype');
+}
+@font-face {
+	font-family: "Caviar Dreams";
+	src:url('sources/fonts/Caviar Dreams/CaviarDreams.eot') format('embedded-opentype'),
+	url('sources/fonts/Caviar Dreams/CaviarDreams.ttf') format('truetype');
 }
