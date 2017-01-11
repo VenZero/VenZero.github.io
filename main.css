@@ -6,12 +6,6 @@ body {
   padding: 0;
 }
 
-.headers {
-	font-size: 40px;
-	font-family: Caviar Dreams;
-	text-align: center;
-	}
-
 <style type="text/css">
 /*** maak de hoogte en breedte gelijk aan je afbeeldingen **/
 #slideshow {
@@ -39,7 +33,7 @@ z-index:9;
 
 .headers {
 	font-size: 40px;
-	font-family: Caviar Dreams;
+	font-family: Advent Psychosis;
 	text-align: center;
 	}
 
