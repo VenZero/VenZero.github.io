@@ -8,7 +8,6 @@ body {
 
 .headers {
 	font-size: 40px;
-	color: white;
 	font-family: Caviar Dreams;
 	text-align: center;
 	}
@@ -40,14 +39,12 @@ z-index:9;
 
 .headers {
 	font-size: 40px;
-	color: white;
 	font-family: Caviar Dreams;
 	text-align: center;
 	}
 
 .nav {
     font-size:20px;
-    color: white;
     font-family: Caviar Dreams;
     background-image: url('C:/Users/jordy/Documents/site/sources/images/transparent white.png');
     max-width: 13%;
@@ -65,13 +62,11 @@ z-index:9;
 
 .join {
 	font-size: 50px;
-	color: white;
 	font-family: Caviar Dreams;
 	text-align: center;
 	}
 
 .footer {
-	color: white;
 	font-family:Caviar Dreams;
 	text-align: center;
 }
