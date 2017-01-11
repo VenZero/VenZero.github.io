@@ -6,6 +6,13 @@ body {
   padding: 0;
 }
 
+.header {
+	font-size: 40px;
+	color: white;
+	font-family: Caviar Dreams;
+	text-align: center;
+	}
+
 <style type="text/css">
 /*** maak de hoogte en breedte gelijk aan je afbeeldingen **/
 #slideshow {
