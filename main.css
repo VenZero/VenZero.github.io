@@ -8,7 +8,6 @@ body {
 
 .headers {
 	font-size: 40px;
-	color: white;
 	font-family: Caviar Dreams;
 	text-align: center;
 	}
@@ -40,7 +39,6 @@ z-index:9;
 
 .headers {
 	font-size: 40px;
-	color: white;
 	font-family: Caviar Dreams;
 	text-align: center;
 	}
@@ -60,13 +58,11 @@ z-index:9;
 	display:inline;
 	text-align: center;
 	font-size:30px;
-	color:white;
 	font-family: Caviar Dreams;
 }
 
 .join {
 	font-size: 50px;
-	color: white;
 	font-family: Caviar Dreams;
 	text-align: center;
 	}
@@ -74,7 +70,6 @@ z-index:9;
 .footer {
 	font-family:Caviar Dreams;
 	text-align: center;
-	color:white;
 }
   
 .HoverVid a { position:relative; }
