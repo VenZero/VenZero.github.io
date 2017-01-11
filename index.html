@@ -13,11 +13,9 @@
 <script type="text/javascript">
 var currentTime = new Date().getHours();
 if (7 <= currentTime && currentTime < 20) {
-    if (document.write) {
     if (document.body) {
         document.body.background = "sources/images/black-wallpaper-10.jpg";
-        document.write.fontcolor = "green"
-	    }
+	document.write("Fontcolor: "fontcolor("green")"");
     }
 }
 else {
