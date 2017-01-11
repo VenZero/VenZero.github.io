@@ -14,17 +14,29 @@
 var currentTime = new Date().getHours();
 if (7 <= currentTime && currentTime < 20) {
     if (document.body) {
-	    g.setColor(Color.YELLOW);
         document.body.background = "sources/images/black-wallpaper-10.jpg";
     }
 }
 else {
     if (document.body) {
-	    g.setColor(Color.YELLOW);
         document.body.background = "sources/images/black-wallpaper-10.jpg";
     }
 }
 
+</script>
+	
+<script type="text/javascript">
+var currentTime = new Date().getHours();
+if (7 <=currentTime && currentTime < 20) {
+	if (g.setColor) {
+		g.setColor(Color.YELLOW);
+	}
+}
+	else {
+		if (g.setColor) {
+			g.setColor(Color.YELLOW);
+		}
+	}
 </script>
 
 <div class="headers">
