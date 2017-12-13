@@ -13,6 +13,7 @@ body {
 }
 
 .headers {
+	padding-top:30px;
 	background-color:grey;
 	font-size: 40px;
 	font-family: Caviar Dreams;
