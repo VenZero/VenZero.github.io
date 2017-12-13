@@ -13,12 +13,14 @@ body {
 }
 
 .headers {
+	margin-top:20px;
 	padding-top:20px;
 	background-color:grey;
 	font-size: 40px;
 	font-family: Caviar Dreams;
 	text-align: center;
 	}
+
 
 .slide2 {
 	width:100%;
