@@ -9,7 +9,7 @@ body {
 .bittrex {
 	width:980px;
 	height:610;
-	padding:20px;
+	padding-down:20px;
 }
 
 .headers {
