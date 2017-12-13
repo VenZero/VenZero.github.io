@@ -6,6 +6,10 @@ body {
   padding: 0;
 }
 
+.bittrex {
+	padding:20px;
+}
+
 .headers {
 	background-color:grey;
 	font-size: 40px;
