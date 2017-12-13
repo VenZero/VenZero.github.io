@@ -13,6 +13,7 @@ body {
 }
 
 .headers {
+	padding-top:-20px;
 	margin-top:20px;
 	background-color:grey;
 	font-size: 40px;
