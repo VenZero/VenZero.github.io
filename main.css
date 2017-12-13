@@ -7,7 +7,7 @@ body {
 }
 
 .bittrex {
-	width:980px;
+	width:100%;
 	height:610;
 	padding-down:20px;
 }
@@ -18,6 +18,11 @@ body {
 	font-family: Caviar Dreams;
 	text-align: center;
 	}
+
+.slide {
+	width:100%;
+	
+}
 
 <style type="text/css">
 /*** maak de hoogte en breedte gelijk aan je afbeeldingen **/
